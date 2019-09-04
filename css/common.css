@@ -1,0 +1,26 @@
+body{font-family: "Helvetica Neue", Helvetica,Arial,"Microsoft Yahei UI", "Microsoft Yahei",SimHei,"\5B8B\4F53",SimSun, sans-serif;color:#666;}
+/**navigation**/
+.header-nav-mar{margin-top: 0;}
+/**轮播图**/
+#myCarousel{margin-top:50px;}
+.carousel-inner img{margin:0 auto;}
+/*.carousel-control{font-size: 70px;}*/
+/**footer**/
+#footer{padding:10px 0px;background:#0059B2;color: #fff;}
+#footer p{text-align: center;}
+.footer_img{width:auto;margin:10px auto;text-align: center;}
+.footer_img a{display: inline-block;margin:0px 3px;}
+
+.index_content{margin-top:20px;}
+.index_header{width: 100%;background: #0078c4;padding: 20px 0;text-align: center;font-size:40px;color: #fff;}
+.index_header p{font-size:20px;}
+
+.index_content .thumbnail{
+    text-align: center;
+    color: #1B1C1D;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-left-color: rgb(219, 40, 40);
+    border-radius: 5px;
+    font-size: 20px;
+}
